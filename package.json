@@ -1,0 +1,15 @@
+{
+  "name": "nighton_autosign",
+  "version": "1.0.0",
+  "description": "module for nighton",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lisa Fedoul",
+  "license": "ISC",
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "pdf-lib": "^1.17.1"
+  }
+}
